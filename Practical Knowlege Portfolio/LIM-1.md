@@ -67,3 +67,5 @@ Keywords: Packet manipulation, OSI model, processes, services, network
 communication, data transformation, session layer, transport layer,
 lower layers, network performance, data security, seamless
 communication.
+
+Acknowledgement: This document was enhanced using Chat GPT.
