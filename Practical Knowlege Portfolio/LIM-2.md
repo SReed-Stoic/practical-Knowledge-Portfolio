@@ -63,3 +63,5 @@ create enhances our comprehension of network communication dynamics.
 Keywords: Session layer, transport layer, OSI model, abstract machine,
 logical communication channel, interface, packet transfers, network
 communication, upper layers, lower layers.
+
+Acknowledgement: This document was enhanced using Chat GPT.
