@@ -18,7 +18,7 @@ To explore my portfolio, simply browse through the repository's markdown files. 
 
 For further inquiries or to discuss potential opportunities, please don't hesitate to contact me. You can reach me via the following channels:
 
-- LinkedIn: [Sheldon IT]([https://www.linkedin.com/in/sheldon-reed-9751a5203?challengeId=AQEiBdyP6UJEBQAAAYiCj-2DuvXsF26Q_Pjp_hojkS5VLVvYxcxmisGnYWi75gPOR1NJwyGmEMXc9xDUphBPyOFf-d6z738c3w&submissionId=5a899280-383a-6517-b02b-5d05b7f93c0f&challengeSource=AgFMnY4IvGaptQAAAYiCkEb24EvaxsLKyYjAokKRmguEXvqkd4cMjxvNsazGMzU&challegeType=AgF44efVPvMwiwAAAYiCkEb57k_PZyiWCuF_sZYiYba2ZhQllWCnEK8&memberId=AgGbsc-FTUwDCQAAAYiCkEb8GPjh6Fz25y6DnIcg_h8cpwU&recognizeDevice=AgE9u-DvLsY3nQAAAYiCkEb_euawCA4xL2ML4quDeo61MzJrxUQl])
+- LinkedIn: [Sheldon Reed]
 
 Thank you for considering my Practical Knowledge Portfolio. I look forward to connecting and showcasing my passion for IT through this repository.
 
